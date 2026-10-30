@@ -17,7 +17,7 @@
   "dependencies": {
     "humps": "^0.6.0",
     "isomorphic-fetch": "^2.1.1",
-    "lodash": "^3.10.1",
+    "lodash": "^4.18.1",
     "normalizr": "^1.0.0",
     "react": "^0.14.0",
     "react-dom": "^0.14.0",
@@ -42,7 +42,7 @@
     "redux-devtools-dock-monitor": "^1.0.0-beta-3",
     "redux-devtools-log-monitor": "^1.0.0-beta-3",
     "webpack": "^1.9.11",
-    "webpack-dev-middleware": "^1.2.0",
+    "webpack-dev-middleware": "^8.6.0",
     "webpack-hot-middleware": "^2.2.0"
   }
 }
